@@ -1,0 +1,13 @@
+.ViewAllStudent{
+    background-color: #f4f4fb;
+    min-height: 100vh;
+}
+.ViewAllStudent-body{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    gap: 1% 0%;
+    overflow: auto;
+    width: 100%;
+    padding: 2% 0;
+}

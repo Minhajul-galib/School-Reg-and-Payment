@@ -1,0 +1,25 @@
+.AddStudentID-content{
+    width: 40%;
+    border: 1px dashed #008c44;
+    padding: 3%;
+    border-radius: 3px;
+    margin: auto;
+}
+.AddStudentID-form-div input, .AddStudentID-form-div select, .AddStudentID-form-div p {
+    width: 100%;
+    border-radius: 2px;
+    border: 1px solid #a7a7a7;
+    margin-bottom: 8px;
+    font-size: 17px;
+    font-family: auto;
+    padding: 4px 8px;
+}
+.AddStudentID-form-div input:focus-visible, .AddStudentID-form-div select:focus-visible {
+    outline: none;
+    border: 1px solid #414040;
+    
+}
+.AddStudentID-form-div input[type=submit] {
+    padding: 6px 8px;
+
+}

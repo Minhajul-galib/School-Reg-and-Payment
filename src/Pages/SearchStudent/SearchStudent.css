@@ -1,0 +1,14 @@
+.SearchStudent-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.SearchStudent-logo{
+    width: 7%;
+}
+.SearchStudent-body{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-bottom: 10%;
+    gap: 2%;
+}
